@@ -1,0 +1,54 @@
+                                                                        
+    {
+    "name": "<string>",
+    "location": {
+        "address": "<string>",
+        "proximityToAttractions": "<string>",
+        "neighborhoodSafety": "<string>",
+        "accessibility": "<string>"
+    },
+    "price": {
+        "nightlyRate": "<string>",
+        "hiddenFees": "<string>"
+    },
+    "room": {
+        "type": "<string>",
+        "size": "<string>"
+    },
+    "amenities": {
+        "wifi": "<string>",
+        "breakfast": "<string>",
+        "poolAndSpa": "<string>",
+        "climateControl": "<string>",
+        "topAmenity": "<string>"
+    },
+    "ratingsAndReviews": {
+        "overallRating": "<string>",
+        "recentReview": "<string>"
+    },
+    "serviceAndStaff": "<string>",
+    "policies": {
+        "cancellation": "<string>",
+        "checkIn": "<string>",
+        "checkOut": "<string>"
+    },
+    "meals": {
+        "restaurant": "<string>",
+        "roomService": "<string>"
+    },
+    "familyAndPet": {
+        "familyFriendly": "<string>",
+        "petPolicy": "<string>"
+    },
+    "transportation": {
+        "shuttleService": "<string>",
+        "parking": "<string>"
+    },
+    "safetyAndSecurity": "<string>",
+    "specialOffers": "<string>",
+    "ambianceAndDecor": "<string>",
+    "environmentalInitiatives": "<string>",
+    "businessAmenities": "<string>",
+    "viewAndSurroundings": "<string>",
+    "noiseLevel": "<string>"
+    }                                                         

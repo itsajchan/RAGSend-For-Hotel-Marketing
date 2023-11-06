@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "repl-nix-marketing-rag"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+packages = [{include = "repl_nix_marketing_rag"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+openai = "^0.28.0"
+replicate = "^0.13.0"
+requests = "^2.31.0"
+dagster = "^1.4.15"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

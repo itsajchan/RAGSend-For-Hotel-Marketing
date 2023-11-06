@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+hotel_rag_marketing/__init__.py
+hotel_rag_marketing/assets.py
+hotel_rag_marketing.egg-info/PKG-INFO
+hotel_rag_marketing.egg-info/SOURCES.txt
+hotel_rag_marketing.egg-info/dependency_links.txt
+hotel_rag_marketing.egg-info/requires.txt
+hotel_rag_marketing.egg-info/top_level.txt
